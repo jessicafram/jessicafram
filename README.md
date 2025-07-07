@@ -1,4 +1,4 @@
-[# 👋 Olá, eu sou a Jéssica!
+# 👋 Olá, eu sou a Jéssica!
 
 ### 🚀 Sobre Mim
 
@@ -51,47 +51,4 @@ Eu sou uma entusiasta do desenvolvimento Front-end, sempre em busca de novos con
 
 Estou sempre aprimorando minhas habilidades em:
 * HTML, CSS, JavaScript (fundamentos sólidos e frameworks modernos)
-* ReactJS / Vue.js (explorando as melhores práticas e construindo componentes reutilizáveis)
-* Consumo de APIs RESTful
-* Boas práticas de UI/UX
-
-### 💻 Estou procurando colaborar em...
-
-Adoraria contribuir para projetos de código aberto ou colaborar em iniciativas que envolvam:
-* Desenvolvimento de interfaces de usuário com foco em acessibilidade e responsividade.
-* Projetos que utilizem JavaScript moderno e frameworks de front-end.
-* Criação de ferramentas ou componentes que melhorem a experiência do desenvolvedor.
-
-### 💡 Estou procurando ajuda com...
-
-Se você tem expertise em...
-* Otimização de performance em aplicações web.
-* Arquitetura de projetos Front-end escaláveis.
-* Desafios específicos em estruturas de dados ou algoritmos (sempre bom revisar!).
-
-...adoraria sua orientação e conhecimento!
-
-### Meu Conteúdo e Serviços:
-
-#### 📚 Curso Básico do Básico Java
-Sou criadora do curso "Básico do Básico Java", focado em ajudar iniciantes a dar os primeiros passos na programação com Java. Compartilho os fundamentos essenciais para quem busca construir uma base sólida nesta linguagem poderosa.
-
-#### 🎓 Aulas Particulares: Introdução à IA, Algoritmos e Otimização
-Ofereço aulas particulares de **Introdução à Inteligência Artificial Avançada**, **Algoritmos** e **Otimização de Algoritmos**. Se você busca aprofundar seus conhecimentos nesses tópicos desafiadores e fundamentais, posso te guiar!
-
-#### 🎥 Canal "Seu Mundo Digital" (Academia de Ciência da Computação)
-No meu canal do YouTube, "Seu Mundo Digital", exploro tópicos da área acadêmica da Ciência da Computação, desmistificando conceitos e compartilhando dicas para estudantes e entusiastas da tecnologia. Conecte-se comigo por lá!
-* [Link para o Canal Seu Mundo Digital](https://www.youtube.com/@seumundodigital2075) 
-
----
-
-### Pronomes: ela/dela
-
----
-
-### Um Fato Curioso:
-
-Adoro café ☕ e passo horas explorando novas bibliotecas JavaScript!
-
----
-](https://github.com/jessicafram/jessicafram/edit/main/README.md)
+* ReactJS / Vue.js
