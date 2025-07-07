@@ -10,13 +10,25 @@ Eu sou uma entusiasta do desenvolvimento Front-end, sempre em busca de novos con
 <img align="center" alt="Jessica-Css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" alt="Jessica-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
 <img align="center" alt="Jessica-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img align="center" alt="Jessica-Sql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+<img align="center" alt="Jessica-Sql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> 
 <img align="center" alt="Jessica-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 <img align="center" alt="Jessica-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 <img align="center" alt="Jessica-Cplusplus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
 <img align="center" alt="Jessica-Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 <img align="center" alt="Jessica-VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-<img align="right" alt="Avatar da Jéssica fazendo ok" height="150" style="border-radius:50px;" src="https://raw.githubusercontent.com/jessicafram/jessicafram/main/Avatar%20definitivo.jpg">
+<img align="right" alt="Avatar da Jéssica fazendo ok" height="150" style="border-radius:50px;" src="https://raw.githubusercontent.com/jessicafram/jessicafram/9bd55d05d72191b92ccbfca28a608f2a0936a0c7/avatar%20github.webp">
+</div>
+
+---
+
+### 💬 Como me encontrar:
+
+<div> 
+<a href="https://www.youtube.com/@seumundodigital2075" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/insights_da_je" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://wa.me/5521992064288" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+<a href = "mailto:jessicafranca1981@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/jessica-frança-smd" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 ---
@@ -36,16 +48,6 @@ Eu sou uma entusiasta do desenvolvimento Front-end, sempre em busca de novos con
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jessicafram&theme=dracula&hide_border=true&date_format=M%20D%5B%2C%20YY%5D)](https://git.io/streak-stats)
 
 ---
-
-### 💬 Como me encontrar:
-
-<div>
-<a href="https://www.youtube.com/@seumundodigital2075" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-<a href="https://instagram.com/insights_da_je" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://wa.me/5521992064288" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-<a href = "mailto:jessicafranca1981@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/jessica-frança-smd" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
 
 ### 🌱 O que estou aprendendo no momento...
 
@@ -69,6 +71,8 @@ Se você tem expertise em...
 * Arquitetura de projetos Front-end escaláveis.
 * Desafios específicos em estruturas de dados ou algoritmos (sempre bom revisar!).
 
+...adoraria sua orientação e conhecimento!
+
 ### Meu Conteúdo e Serviços:
 
 #### 📚 Curso Básico do Básico Java
@@ -79,7 +83,7 @@ Ofereço aulas particulares de **Introdução à Inteligência Artificial Avanç
 
 #### 🎥 Canal "Seu Mundo Digital" (Academia de Ciência da Computação)
 No meu canal do YouTube, "Seu Mundo Digital", exploro tópicos da área acadêmica da Ciência da Computação, desmistificando conceitos e compartilhando dicas para estudantes e entusiastas da tecnologia. Conecte-se comigo por lá!
-* [Link para o Canal Seu Mundo Digital](https://www.youtube.com/@seumundodigital2075)
+* [Link para o Canal Seu Mundo Digital](https://www.youtube.com/@seumundodigital2075) 
 
 ---
 
