@@ -16,7 +16,7 @@ Eu sou uma entusiasta do desenvolvimento Front-end, sempre em busca de novos con
 <img align="center" alt="Jessica-Cplusplus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
 <img align="center" alt="Jessica-Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 <img align="center" alt="Jessica-VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-<img align="right" alt="Avatar da Jéssica fazendo ok" height="150" style="border-radius:50px;" src="https://raw.githubusercontent.com/jessicafram/jessicafram/9bd55d0d1fdf1b0de2e0d55bbbc5514a428e3/Aula%2003%20(3).jpg">
+<img align="right" alt="Avatar da Jéssica fazendo ok" height="150" style="border-radius:50px;" src="https://raw.githubusercontent.com/jessicafram/jessicafram/48cda5dd1fdf1b0ec2e4d02de55bbc5514a428e3/avatar%20github.webp">
 </div>
 
 ---
@@ -39,16 +39,44 @@ Eu sou uma entusiasta do desenvolvimento Front-end, sempre em busca de novos con
 
 ### 💬 Como me encontrar:
 
-<div> 
+<div>
 <a href="https://www.youtube.com/@seumundodigital2075" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/insights_da_je" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://wa.me/5521992064288" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 <a href = "mailto:jessicafranca1981@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/jessica-frança-smd" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/jessica-frança-smd" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
 ### 🌱 O que estou aprendendo no momento...
 
 Estou sempre aprimorando minhas habilidades em:
 * HTML, CSS, JavaScript (fundamentos sólidos e frameworks modernos)
-* ReactJS / Vue.js
+* ReactJS / Vue.js (explorando as melhores práticas e construindo componentes reutilizáveis)
+* Consumo de APIs RESTful
+* Boas práticas de UI/UX
+
+### 💻 Estou procurando colaborar em...
+
+Adoraria contribuir para projetos de código aberto ou colaborar em iniciativas que envolvam:
+* Desenvolvimento de interfaces de usuário com foco em acessibilidade e responsividade.
+* Projetos que utilizem JavaScript moderno e frameworks de front-end.
+* Criação de ferramentas ou componentes que melhorem a experiência do desenvolvedor.
+
+### 💡 Estou procurando ajuda com...
+
+Se você tem expertise em...
+* Otimização de performance em aplicações web.
+* Arquitetura de projetos Front-end escaláveis.
+* Desafios específicos em estruturas de dados ou algoritmos (sempre bom revisar!).
+
+...adoraria sua orientação e conhecimento!
+
+### Meu Conteúdo e Serviços:
+
+#### 📚 Curso Básico do Básico Java
+Sou criadora do curso "Básico do Básico Java", focado em ajudar iniciantes a dar os primeiros passos na programação com Java. Compartilho os fundamentos essenciais para quem busca construir uma base sólida nesta linguagem poderosa.
+
+#### 🎓 Aulas Particulares: Introdução à IA, Algoritmos e Otimização
+Ofereço aulas particulares de **Introdução à Inteligência Artificial Avançada**, **Algoritmos** e **Otimização de Algoritmos**. Se você busca aprofundar seus conhecimentos nesses tópicos desafiadores e fundamentais, posso te guiar!
+
+#### 🎥 Canal "Seu Mundo Digital" (Academia de Ciência da Computação
