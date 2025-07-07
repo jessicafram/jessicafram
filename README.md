@@ -16,7 +16,7 @@ Eu sou uma entusiasta do desenvolvimento Front-end, sempre em busca de novos con
 <img align="center" alt="Jessica-Cplusplus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
 <img align="center" alt="Jessica-Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 <img align="center" alt="Jessica-VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-<img align="right" alt="Avatar da Jéssica fazendo ok" height="150" style="border-radius:50px;" src="https://www.githubusercontent.com/jessicafram/jessicafram/40cda5dd1fdf1b0de2e0d55bbbc5514a428e3/avatar_github.webp">
+<img align="right" alt="Avatar da Jéssica fazendo ok" height="150" style="border-radius:50px;" src="https://raw.githubusercontent.com/jessicafram/jessicafram/9bd55d0d1fdf1b0de2e0d55bbbc5514a428e3/Aula%2003%20(3).jpg">
 </div>
 
 ---
