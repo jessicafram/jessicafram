@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou a Jéssica!
+[# 👋 Olá, eu sou a Jéssica!
 
 ### 🚀 Sobre Mim
 
@@ -94,3 +94,4 @@ No meu canal do YouTube, "Seu Mundo Digital", exploro tópicos da área acadêmi
 Adoro café ☕ e passo horas explorando novas bibliotecas JavaScript!
 
 ---
+](https://github.com/jessicafram/jessicafram/edit/main/README.md)
